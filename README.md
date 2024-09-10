@@ -11,7 +11,13 @@ Desarrollador Backend 💻 con mas de 4 años de experiencia con Python, C#, Php
 
 🗣️Poseo habilidades blandas como la resolución der conflictos, comunicación efectiva, muy responsable y sobre todo capacidad de trabajo en equipo.
 
-## Proyectos
+## Proyectos Personales
+
+```
+$ echo >> "No pain, no gain 💪" 
+```
+
+Aquí algunos proyectos que he trabajado en mis tiempos libres:
 
 <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <thead>
@@ -43,12 +49,11 @@ Desarrollador Backend 💻 con mas de 4 años de experiencia con Python, C#, Php
 ## Un estudiante aplicado...
 
 ```
-$ echo >> "studying and working 💪"
+$ ./studying_and_working.sh >> current.log
 ```
 
 Actualmente me encuentro estudiando la carrera de Ingeniería de Sistemas. Aquí alguno de mis avances:
 
- ### Matemáticas
  **Vídeo Ecuaciones**
  [![Ecuaciones](Ecuaciones.png)](https://www.youtube.com/watch?v=Gf0LndIZ31c)
  **Vídeo Trigonometría**
