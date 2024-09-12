@@ -11,6 +11,14 @@ Desarrollador Backend 💻 con mas de 4 años de experiencia con Python, C#, Php
 
 🗣️Poseo habilidades blandas como la resolución der conflictos, comunicación efectiva, muy responsable y sobre todo capacidad de trabajo en equipo.
 
+## Proyectos Privados
+
+Actualmente he trabajado en algunos proyectos para empresas, algunos privados otros públicos. Aquí alguno de ellos:
+
+- Golf Script, disponible en https://github.com/Edgar3101/golf-script
+- Amagua, aplicación para ejecución de ordenes en el serctor de agua: https://play.google.com/store/apps/details?id=com.progresus.amagua&hl=es_419&pli=1
+- Integración entre Masiv (Meta) y HubSpot para envío de SMS personalizados: https://progresus.co/casos-de-uso/integraciones/integraci%C3%B3n-de-hubspot-y-masiv-sms-de-meta-eficiencia-en-el-sector-automotriz
+
 ## Proyectos Personales
 
 ```
