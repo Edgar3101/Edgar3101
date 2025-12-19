@@ -1,6 +1,6 @@
 
 # ¡Hola, soy Edgar!
-![image](Banner.jpeg)
+![image](Banner.png)
 
 ## Un poco sobre mí...
 Desarrollador Backend 💻 con mas de 5 años de experiencia con Python, Golang y Java. Tecnologías como Django y FastApi. Manejo tecnologías Devops como CI/CD en Azure, Azure functions y AWS lambda (Serverless functions), manejo de EC2 en aws, DB RDS y otras más. Manejo de bases de datos Microsoft SQL Server y Mysql. Excelente manejo del ecosistema Linux (Ubuntu, Fedora, Red Hat), además de excelente manejo en Docker 🐋. Experiencia en sitema de control de versiones git. 
