@@ -3,7 +3,7 @@
 ![image](Banner.jpeg)
 
 ## Un poco sobre mí...
-Desarrollador Backend 💻 con mas de 4 años de experiencia con Python, C#, Php y Javascript. Tecnologías como Django y Laravel. Manejo tecnologías Devops como CI/CD en Azure, Azure functions y AWS lambda (Serverless functions), manejo de EC2 en aws, DB RDS y otras más. Manejo de bases de datos Microsoft SQL Server y Mysql. Excelente manejo del ecosistema Linux (Ubuntu, Fedora, Red Hat), además de excelente manejo en Docker 🐋. Experiencia en sitema de control de versiones git. 
+Desarrollador Backend 💻 con mas de 5 años de experiencia con Python, Golang y Java. Tecnologías como Django y FastApi. Manejo tecnologías Devops como CI/CD en Azure, Azure functions y AWS lambda (Serverless functions), manejo de EC2 en aws, DB RDS y otras más. Manejo de bases de datos Microsoft SQL Server y Mysql. Excelente manejo del ecosistema Linux (Ubuntu, Fedora, Red Hat), además de excelente manejo en Docker 🐋. Experiencia en sitema de control de versiones git. 
 
 💼Me encargado de desarrollar proyectos a la medida, asi he sido lider de proyecto y he tenido a cargo mas de 10 proyectos, con empresas reconocidas.
 
